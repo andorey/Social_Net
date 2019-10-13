@@ -4,4 +4,20 @@
 	margin: 1px;
 }
 
+.item {
+	font-size: 22px;
+	text-shadow: 0 0 6px darkblue,
+	0 0 10px black;
+	margin-left: 25px;
+	margin-top: 15px;
+
+}
+
+.active {
+
+}
+
+.active a {
+	color: aliceblue;
+}
 

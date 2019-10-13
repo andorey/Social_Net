@@ -1,0 +1,14 @@
+.posts {
+	/*background-color: steelblue;*/
+	color: aliceblue;
+	margin-top: 1px;
+}
+
+.textArea {
+	display: flex;
+	background-color: steelblue;
+	padding: 10px;
+	border-radius: 8px;
+	margin-bottom: 2px;
+}
+

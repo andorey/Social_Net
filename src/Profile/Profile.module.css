@@ -9,3 +9,17 @@
 	height: 300px;
 }
 
+.posts {
+	color: aliceblue;
+	background-color: steelblue;
+}
+
+.myPhoto {
+	display: flex;
+}
+
+.myPhoto img {
+	width: 70px;
+	height: 100px;
+	border-radius: revert;
+}

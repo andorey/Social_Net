@@ -3,9 +3,10 @@
 	background-color: steelblue;
 	display: flex;
 	margin: 1px;
+	border-radius: 8px;
 }
 
 .header img {
-	margin-left: 10px;
+	margin-left: 15px;
 	width: 60px;
 }

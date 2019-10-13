@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="" />
+    <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Profile/Posts/Post/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profile/Posts/Post/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavBar/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavBar/NavBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Profile.module.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +25,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/NavBar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Profile/Posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -26,13 +36,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Profile/Posts" />
+      <recent name="$PROJECT_DIR$/src/Profile" />
       <recent name="$PROJECT_DIR$/src/NavBar" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,7 +74,7 @@
       <workItem from="1570959449689" duration="2006000" />
       <workItem from="1570962152450" duration="5000" />
       <workItem from="1570962166311" duration="3333000" />
-      <workItem from="1570966087749" duration="4370000" />
+      <workItem from="1570966087749" duration="14982000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
@@ -71,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570959954592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change start page">
+      <created>1570971388486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570971388486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+    <MESSAGE value="change start page" />
+    <option name="LAST_COMMIT_MESSAGE" value="change start page" />
   </component>
 </project>
