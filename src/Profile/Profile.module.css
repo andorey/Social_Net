@@ -1,0 +1,11 @@
+.header {
+	grid-area: c;
+	background-color: aliceblue;
+	margin: 1px;
+}
+
+.header img {
+	width: 950px;
+	height: 300px;
+}
+
