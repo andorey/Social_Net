@@ -3,13 +3,17 @@ import './App.css';
 import Header from "./Header/Header";
 import NavBar from "./NavBar/NavBar";
 import Profile from "./Profile/Profile";
+import Dialogs from "./Dialogs/Dialogs";
 
 const App = () => {
 	return (
 		<div className="app-wrapper">
 			<Header/>
 			<NavBar/>
-			<Profile/>
+			<div className="app-wrapper-content">
+				<Profile/>
+				{/*<Dialogs/>*/}
+			</div>
 		</div>
 	);
 }
