@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="">
+    <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create chapter Dialogs with subchapter Dialog">
+      <change afterPath="$PROJECT_DIR$/src/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dialogs/Messages/Message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dialogs/Messages/Message.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialogs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NavBar/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavBar/NavBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Dialogs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Dialogs/Messages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,11 +53,11 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Dialogs/Messages" />
+      <recent name="$PROJECT_DIR$/src/Dialogs/Dialog" />
       <recent name="$PROJECT_DIR$/src/Dialogs" />
       <recent name="$PROJECT_DIR$/src/Profile/Posts" />
       <recent name="$PROJECT_DIR$/src/Profile" />
-      <recent name="$PROJECT_DIR$/src/NavBar" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -80,7 +89,9 @@
       <workItem from="1570962166311" duration="3333000" />
       <workItem from="1570966087749" duration="16378000" />
       <workItem from="1571049083555" duration="6286000" />
-      <workItem from="1571075966168" duration="303000" />
+      <workItem from="1571075966168" duration="8864000" />
+      <workItem from="1571087939682" duration="1998000" />
+      <workItem from="1571090306925" duration="1461000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>

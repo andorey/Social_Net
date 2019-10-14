@@ -1,10 +1,10 @@
 import React from 'react';
 import s from './Dialog.module.css';
 
-const Dialog = () => {
+const Dialog = (props) => {
 	return (
 		<div className={s.dialog}>
-			Dialog
+			{props.dialog}
 		</div>
 	);
 }
