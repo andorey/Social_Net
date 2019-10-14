@@ -12,7 +12,9 @@ const Profile = () => {
 			</div>
 			<div className={s.myPhoto}>
 				<img src="https://clutch.ua/crops/ba1ddb/360x0/1/0/2019/05/17/Ns355MiU9gTtcUX1sI0h2JsX8rDxjwTv.jpeg" alt=""/>
-				I am JS Developer, very cool framework React
+				<div>
+					I am JS Developer. <br/> and I think that React is very cool framework! :)
+				</div>
 			</div>
 			<div>
 				<Posts />

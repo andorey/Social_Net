@@ -17,3 +17,13 @@
 	height: 100px;
 	border-radius: revert;
 }
+
+.myPhoto div {
+	margin-left: 20px;
+	font-size: 20px;
+	color: darkblue;
+	text-shadow: 0 0 5px ghostwhite,
+	0 0 9px white;
+	display: flex;
+	align-items: center;
+}

@@ -5,7 +5,7 @@ import NavBar from "./NavBar/NavBar";
 import Profile from "./Profile/Profile";
 import Dialogs from "./Dialogs/Dialogs";
 
-const App = () => {
+const App = (props) => {
 	return (
 		<div className="app-wrapper">
 			<Header/>
