@@ -13,6 +13,7 @@ const Posts = () => {
 			<div>
 				<Post message="Hi! how are you?" likesCount=" : 5"/>
 				<Post message="I'm go to bed" likesCount=" : 10"/>
+				<Post message="We are the champions" likesCount=" : 7"/>
 			</div>
 		</div>
 	);
