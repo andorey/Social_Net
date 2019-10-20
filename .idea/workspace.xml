@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create folders Dialog and Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Posts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +87,7 @@
       <workItem from="1571128502356" duration="393000" />
       <workItem from="1571135546635" duration="1459000" />
       <workItem from="1571167581779" duration="20000" />
+      <workItem from="1571579701409" duration="3239000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>

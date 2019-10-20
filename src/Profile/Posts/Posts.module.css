@@ -1,5 +1,4 @@
 .posts {
-	/*background-color: steelblue;*/
 	color: aliceblue;
 	margin-top: 1px;
 }
@@ -10,5 +9,24 @@
 	padding: 10px;
 	border-radius: 8px;
 	margin-bottom: 2px;
+	justify-items: ;
 }
 
+.textArea h3 {
+	margin: 0;
+	margin-right: 10px;
+}
+
+.textArea button {
+	border-radius: 20px;
+	box-shadow: 0 0 5px white;
+	color: white;
+	background-color: steelblue;
+	font-weight: 600;
+	font-size: 0.7em;
+	margin-left: 10px;
+}
+
+.textArea button:hover {
+	background-color: darkslateblue;
+}
