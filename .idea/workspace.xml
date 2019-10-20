@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create folders Dialog and Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Post/Post.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Post/Post.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Post/Post.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,18 +37,18 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Dialogs/Messages" />
       <recent name="$PROJECT_DIR$/src/Dialogs/Dialog" />
       <recent name="$PROJECT_DIR$/src/Dialogs" />
       <recent name="$PROJECT_DIR$/src/Profile/Posts" />
       <recent name="$PROJECT_DIR$/src/Profile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -88,7 +87,7 @@
       <workItem from="1571135546635" duration="1459000" />
       <workItem from="1571167581779" duration="20000" />
       <workItem from="1571579701409" duration="3239000" />
-      <workItem from="1571587130715" duration="1648000" />
+      <workItem from="1571587130715" duration="4586000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
