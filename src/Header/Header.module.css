@@ -4,9 +4,21 @@
 	display: flex;
 	margin: 1px;
 	border-radius: 8px;
+	justify-content: space-between;
+	align-items: center;
+	box-shadow: 0 0 13px white;
 }
 
 .header img {
 	margin-left: 15px;
-	width: 60px;
+	margin-right: 10px;
+	width: 50px;
+}
+
+.header div {
+	color: ghostwhite;
+	font-size: 32px;
+	font-family: URW Chancery L;
+	letter-spacing: 10px;
+	font-weight: 500;
 }

@@ -24,8 +24,8 @@
 .item a:hover {
 	color: ghostwhite;
 	text-shadow: 0 0 3px steelblue,
-			0 0 7px white,
-			0 0 16px ghostwhite;
+			0 0 6px white,
+			0 0 13px ghostwhite;
 }
 
 .item a.activeLink {

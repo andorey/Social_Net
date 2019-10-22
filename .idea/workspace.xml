@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create folders Dialog and Message">
+      <change afterPath="$PROJECT_DIR$/public/img/ill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/illum.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +32,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1S8wu7zmcRlgTxH4aauxqADeCLG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Dialogs/Messages" />
@@ -91,7 +99,8 @@
       <workItem from="1571579701409" duration="3239000" />
       <workItem from="1571587130715" duration="4707000" />
       <workItem from="1571645430208" duration="109000" />
-      <workItem from="1571665099356" duration="6121000" />
+      <workItem from="1571665099356" duration="7191000" />
+      <workItem from="1571744906125" duration="6795000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
@@ -148,6 +157,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start project" />
     <MESSAGE value="change start page" />
     <MESSAGE value="create massages blocks" />
