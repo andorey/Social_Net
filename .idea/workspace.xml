@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create folders Dialog and Message">
-      <change afterPath="$PROJECT_DIR$/public/img/ill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/illum.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialog/Dialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavBar/NavBar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Profile.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -100,7 +93,35 @@
       <workItem from="1571587130715" duration="4707000" />
       <workItem from="1571645430208" duration="109000" />
       <workItem from="1571665099356" duration="7191000" />
-      <workItem from="1571744906125" duration="7045000" />
+      <workItem from="1571744906125" duration="7428000" />
+      <workItem from="1571936669409" duration="3438000" />
+      <workItem from="1571943476721" duration="123000" />
+      <workItem from="1571943619860" duration="247000" />
+      <workItem from="1571943872503" duration="67000" />
+      <workItem from="1571943958998" duration="697000" />
+      <workItem from="1571944662834" duration="50000" />
+      <workItem from="1571944717118" duration="161000" />
+      <workItem from="1571944881225" duration="191000" />
+      <workItem from="1571945153517" duration="7000" />
+      <workItem from="1571945530539" duration="198000" />
+      <workItem from="1571945747547" duration="226000" />
+      <workItem from="1571945998121" duration="81000" />
+      <workItem from="1571946100673" duration="60000" />
+      <workItem from="1571946178560" duration="264000" />
+      <workItem from="1571946461047" duration="63000" />
+      <workItem from="1571946528567" duration="159000" />
+      <workItem from="1571946846209" duration="102000" />
+      <workItem from="1571947936839" duration="6000" />
+      <workItem from="1571947985408" duration="3000" />
+      <workItem from="1571948116193" duration="1000" />
+      <workItem from="1571948213242" duration="3000" />
+      <workItem from="1571948371979" duration="118000" />
+      <workItem from="1571948660703" duration="203000" />
+      <workItem from="1571948882108" duration="383000" />
+      <workItem from="1571949284102" duration="87000" />
+      <workItem from="1571949388645" duration="26000" />
+      <workItem from="1571949433975" duration="395000" />
+      <workItem from="1571949849084" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
