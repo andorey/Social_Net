@@ -21,7 +21,7 @@ const Profile = (props) => {
 				</div>
 			</div>
 			<div>
-				<Posts postsElements={props.postsElements}/>
+				<Posts postData={props.postData}/>
 			</div>
 		</div>
 	);

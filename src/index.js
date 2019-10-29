@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Dialog from "./Dialogs/Dialog/Dialog";
-import Message from "./Dialogs/Messages/Message";
-import Post from "./Profile/Posts/Post/Post";
 
 let dialogsData = [
 	{id: 1, name: 'Andrew'},
@@ -14,8 +11,6 @@ let dialogsData = [
 	{id: 4, name: 'Colin'},
 	{id: 5, name: 'Agnieszka'},
 ];
-
-let dialogsElements = dialogsData.map(d => <Dialog name={d.name} id={d.id}/>);
 
 
 let messagesData = [
@@ -26,8 +21,6 @@ let messagesData = [
 	{id: 5, message: 'She is do not know where I live'},
 ];
 
-let messagesElements = messagesData.map(m => <Message message={m.message}/>);
-
 
 let postData = [
 	{id: 1, post: 'How about you?', likesCount: 5},
@@ -37,9 +30,7 @@ let postData = [
 	{id: 5, post: 'Do you want how old are you?', likesCount: 4},
 ];
 
-let postsElements = postData.map(p => <Post message={p.post} likesCount={p.likesCount}/>);
-
-ReactDOM.render(<App dialogsElements={dialogsElements} messagesElements={messagesElements} postsElements={postsElements} />, document.getElementById('root'));
+ReactDOM.render(<App dialogsData={dialogsData} messagesData={messagesData} postData={postData} />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
