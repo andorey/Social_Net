@@ -6,7 +6,12 @@ const Dialog = (props) => {
 	return (
 		<div className={s.dialog}>
 			<NavLink to={/dialogs/ + props.id}>
-				{props.name}
+				<div className={s.photo}>
+					<img
+						src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-Rtjo86Y2Wo-a_WCxI-Eao3f-L9VbK9eGMoBSg-Pq5dhkaSd"
+						alt=""/>
+					{props.name}
+				</div>
 			</NavLink>
 		</div>
 	);
