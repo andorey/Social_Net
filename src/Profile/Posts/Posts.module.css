@@ -9,6 +9,7 @@
 	padding: 10px;
 	border-radius: 8px;
 	margin-bottom: 2px;
+	align-items: center;
 }
 
 .textArea h3 {
@@ -21,14 +22,19 @@
 	box-shadow: 0 0 5px white;
 	color: white;
 	background-color: steelblue;
-	font-weight: 600;
+	font-weight: 800;
 	font-size: 0.7em;
 	margin-left: 10px;
+	width: 100px;
+	padding: 10%;
 }
 
 .textArea button:hover {
 	background-color: darkslateblue;
 }
 
-textarea {
+.textArea textarea {
+	font-size: medium;
+	width: 50%;
+	border-radius: 5%;
 }

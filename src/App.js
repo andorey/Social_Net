@@ -27,7 +27,6 @@ const App = (props) => {
 					   render={() => <Dialogs
 						   state={props.state.dialogsPage}/>}/>
 
-
 			</div>
 		</div>
 	);
