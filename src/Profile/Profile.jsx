@@ -1,9 +1,9 @@
 import React from 'react';
 import s from './Profile.module.css';
 import Posts from "./Posts/Posts";
-import {addPost} from "../redux/state";
 
 const Profile = (props) => {
+
 	return (
 		<div className={s.header}>
 			<div>
@@ -22,7 +22,10 @@ const Profile = (props) => {
 				</div>
 			</div>
 			<div>
-				<Posts state={props.state} addPost={props.addPost}/>
+				<Posts postData={props.postPage.postData}
+					   newPostText={props.postPage.newPostText}
+					   updateNewPostText={props.updateNewPostText}
+					   addPost={props.addPost} />
 			</div>
 		</div>
 	);

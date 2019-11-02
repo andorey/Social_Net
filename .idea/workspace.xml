@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create folders Dialog and Message">
-      <change afterPath="$PROJECT_DIR$/src/render.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/render.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +131,8 @@
       <workItem from="1572037514276" duration="4000" />
       <workItem from="1572271719669" duration="10774000" />
       <workItem from="1572376572663" duration="5857000" />
-      <workItem from="1572618520061" duration="11306000" />
+      <workItem from="1572618520061" duration="11666000" />
+      <workItem from="1572690066929" duration="7823000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
