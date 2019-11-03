@@ -18,12 +18,19 @@ const Posts = (props) => {
 		props.addPost();
 	};
 
+	let oneAddTaskKeyPress = (e) => {
+		if(e.key === 'Enter'){
+			props.addPost();
+		}
+	};
+
 	return (
 		<div className={s.posts}>
 			<div className={s.textArea}>
 				<h3>My posts :</h3>
 				<textarea onChange={onPostChange}
 						  ref={newPostElement}
+						  onKeyPress={oneAddTaskKeyPress}
 						  value={props.newPostText}/>
 				<div><button onClick={addPost}>Add Post</button></div>
 			</div>
@@ -32,6 +39,6 @@ const Posts = (props) => {
 			</div>
 		</div>
 	);
-}
+};
 
 export default Posts;
