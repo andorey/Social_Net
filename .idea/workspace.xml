@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Posts/Posts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +40,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -159,7 +165,7 @@
       <workItem from="1572618520061" duration="11666000" />
       <workItem from="1572690066929" duration="11098000" />
       <workItem from="1572793615219" duration="206000" />
-      <workItem from="1574522287037" duration="4823000" />
+      <workItem from="1574522287037" duration="8433000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
@@ -203,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574527542101</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Binding a method, when we give it to another function to use this method, we must add .bind (&quot;Object Name&quot;)">
+      <created>1574529746809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574529746809</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

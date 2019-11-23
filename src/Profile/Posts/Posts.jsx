@@ -5,18 +5,21 @@ import Post from "./Post/Post";
 
 const Posts = (props) => {
 
-	let onPostChange = () => {
-		let text = newPostElement.current.value;
-		props.updateNewPostText(text);
-	};
-
 	let postsElements = props.postData.map(p => <Post message={p.post} likesCount={p.likesCount}/>);
 
 	let newPostElement = React.createRef();
 
 	let addPost = () => {
-		props.addPost();
+		props.dispatch({type: 'ADD-POST'});
 	};
+
+	let onPostChange = () => {
+		let text = newPostElement.current.value;
+
+		let action = {type: 'UPDATE-NEW-POST-TEXT', newText: text};
+		props.dispatch( action );
+	};
+
 
 	let oneAddTaskKeyPress = (e) => {
 		if(e.key === 'Enter'){
