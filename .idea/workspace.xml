@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="create folders Dialog and Message">
+    <list default="true" id="2c8bbae9-a4a0-4a48-8f39-4f0eff43e8b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="773a3f69-9453-4485-86db-87faeb0ee6b7" />
   </component>
   <component name="ProjectId" id="1S8wu7zmcRlgTxH4aauxqADeCLG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -67,6 +68,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -130,7 +159,7 @@
       <workItem from="1572618520061" duration="11666000" />
       <workItem from="1572690066929" duration="11098000" />
       <workItem from="1572793615219" duration="206000" />
-      <workItem from="1574522287037" duration="3586000" />
+      <workItem from="1574522287037" duration="4823000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1570959954592</created>
@@ -167,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571091806679</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Binding a method, when we give it to another function to use this method, we must add .bind (&quot;Object Name&quot;)">
+      <created>1574527542100</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574527542101</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +229,7 @@
     <MESSAGE value="create massages blocks" />
     <MESSAGE value="create chapter Dialogs with subchapter Dialog" />
     <MESSAGE value="create folders Dialog and Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="create folders Dialog and Message" />
+    <MESSAGE value="Binding a method, when we give it to another function to use this method, we must add .bind (&quot;Object Name&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binding a method, when we give it to another function to use this method, we must add .bind (&quot;Object Name&quot;)" />
   </component>
 </project>
